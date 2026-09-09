@@ -57,7 +57,7 @@ The first and last months in the dataset are partial months, so they should not 
 
 ## Dashboard
 
-![Retail Sales Performance Dashboard](dashboard/retail-sales-dashboard.png)
+![Retail Sales Performance Dashboard](retail-sales-dashboard.png)
 
 The Power BI dashboard includes:
 
